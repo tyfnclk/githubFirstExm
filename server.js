@@ -5,7 +5,7 @@ const express = require('express');
 var port = 3000;
 var app = express();
 var wikiUrls1 = "";
-var ConfDegis = "Tayfun Çelik";
+var ConflictVar = "Tayfun Çelik";
 //test
 //pull requestchanging
 rp(url)
