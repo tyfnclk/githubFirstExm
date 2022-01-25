@@ -6,6 +6,7 @@ var port = 3000;
 var app = express();
 var wikiUrls1 = "";
 var conflictVar2 = "TAyfun Huopp";
+var TestConflict = "NurSareCelik";
 //test
 //pull requestchanging
 rp(url)
