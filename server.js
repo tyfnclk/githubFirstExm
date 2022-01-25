@@ -7,6 +7,9 @@ var app = express();
 var wikiUrls1 = "";
 var conflictVar2 = "TAyfun Huopp";
 var TestConflict = "NurSareCelik";
+var stash = false;
+var stash1 = true;
+var stash2 = "Tayfun Çelik";
 //test
 //pull requestchanging
 rp(url)
